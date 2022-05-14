@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/drawable/ic_about.xml" value="0.2325" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/drawable/ic_account.xml" value="0.2325" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/drawable/ic_add.xml" value="0.2325" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/drawable/ic_home.xml" value="0.131" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.278" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/drawable/ic_product.xml" value="0.2325" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/drawable/ic_report.xml" value="0.2325" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/drawable/ic_service.xml" value="0.2325" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/drawable/ic_setting.xml" value="0.2325" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/font/notosanthai.xml" value="0.327115559599636" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/activity_main_old.xml" value="0.2986111111111111" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/constrain2_layout.xml" value="0.33" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/constraint_layout.xml" value="0.33" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/fragment_about.xml" value="0.16944444444444445" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/fragment_account.xml" value="0.16944444444444445" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/fragment_add_product.xml" value="0.16944444444444445" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/fragment_first.xml" value="0.2986111111111111" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/fragment_home.xml" value="0.16944444444444445" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/fragment_notification.xml" value="0.16944444444444445" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/fragment_product.xml" value="0.16944444444444445" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/fragment_second.xml" value="0.2986111111111111" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/fragment_service.xml" value="0.16944444444444445" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/fragment_setting.xml" value="0.16944444444444445" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/fragment_third.xml" value="0.2986111111111111" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/frame_layout.xml" value="0.2833333333333333" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/linear_layout.xml" value="0.33" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/layout/nav_header.xml" value="0.2833333333333333" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/menu/bottom_nav.xml" value="0.2986111111111111" />
+        <entry key="..\:/TrainingWorkshop/BasicAndroidKotlin/FirstAndroidApp/app/src/main/res/menu/drawer_menu.xml" value="0.2986111111111111" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

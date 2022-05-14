@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">FirstAndroidApp</string>
+    <string name="add_new_item">add new item</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="second_fragment">Second Fragment</string>
+    <string name="third_fragment">Third Fragment</string>
+    <string name="next_text">Next</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">หน้าหลัก</string>
+    <string name="product_fragment">หน้าสินค้า</string>
+    <string name="add_product">หน้าเพิ่มสินค้าใหม่</string>
+    <string name="notification_fragment">หน้าแจ้งเตือน</string>
+    <string name="account_fragment">หน้าบัญชีของฉัน</string>
+    <string name="about_fragment">หน้าเกี่ยวกับเรา</string>
+    <string name="service_fragment">หน้าบริการของเรา</string>
+    <string name="setting_fragment">หน้าตั้งค่า</string>
+    <string name="home_menu_text">หน้าหลัก</string>
+    <string name="product_menu_text">สินค้า</string>
+    <string name="notification_menu_text">แจ้งเตือน</string>
+    <string name="account_menu_text">ฉัน</string>
+    <string name="about_us_menu_text">เกี่ยวกับเรา</string>
+    <string name="service_menu_text">บริการ</string>
+    <string name="setting_menu_text">ตั้งค่า</string>
+    <string name="signout_menu_text">ออกจากระบบ</string>
+    <string name="samit_avatar">Samit Avatar</string>
+    <string name="samit_koyom_text">สามิตร โกยม</string>
+    <string name="samit_email_com">samit@email.com</string>
+    <string name="post_menu_text">ลงประกาศ</string>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home_menu_text" />
+
+    <item
+        android:id="@+id/productFragment"
+        android:icon="@drawable/ic_product"
+        android:title="@string/product_menu_text" />
+
+<!--    <item-->
+<!--        android:enabled="false"-->
+<!--        android:title="" />-->
+
+<!--    <item-->
+<!--        android:id="@+id/empty"-->
+<!--        android:enabled="false"-->
+<!--        tools:ignore="MenuTitle" />-->
+
+    <item
+        android:id="@+id/addProductFragment"
+        android:icon="@drawable/ic_add"
+        android:title="@string/post_menu_text"
+        app:itemIconSize="50dp"/>
+
+    <item
+        android:id="@+id/notificationFragment"
+        android:icon="@drawable/ic_notification"
+        android:title="@string/notification_menu_text" />
+
+    <item
+        android:id="@+id/accountFragment"
+        android:icon="@drawable/ic_account"
+        android:title="@string/account_menu_text" />
+</menu>
